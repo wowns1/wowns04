@@ -61,3 +61,8 @@ assets/videos/
 ```
 
 파일명을 그대로 맞춰 넣으면 메인 프로젝트 카드 배경이 영상으로 재생됩니다. 영상이 없으면 기존 컨셉아트 이미지가 대체 표시됩니다.
+
+
+## OG 이미지
+- 메인: assets/images/og-main.jpg (1200x630)
+- 프로젝트: assets/images/og-light.jpg / og-afterrain.jpg / og-wings-of-l.jpg (1200x630)
