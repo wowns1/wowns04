@@ -16,3 +16,6 @@
 - 파일당 5~15MB 이하 권장
 
 영상이 없으면 `poster`로 지정된 기존 컨셉아트 이미지가 표시됩니다.
+
+
+Note: wings-of-l-card.mp4 is not required because the main Wings of L card uses a static image.
