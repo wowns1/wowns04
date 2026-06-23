@@ -1,6 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <rect width="512" height="512" rx="112" fill="#05080c"/>
-  <circle cx="256" cy="256" r="180" fill="none" stroke="#d8b56a" stroke-width="28"/>
-  <path d="M138 238c28-62 80-98 118-98s90 36 118 98" fill="none" stroke="#f0d58b" stroke-width="24" stroke-linecap="butt"/>
-  <path d="M256 118v276" stroke="#f0d58b" stroke-width="26" stroke-linecap="butt"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Jaejoon Kim favicon">
+  <rect width="512" height="512" rx="52" fill="#151719"/>
+  <rect x="10" y="10" width="492" height="492" rx="48" fill="none" stroke="#E6E2DA" stroke-width="6"/>
+  <rect x="82" y="95" width="350" height="330" fill="none" stroke="#7AA7A2" stroke-width="5"/>
+  <line x1="198" y1="95" x2="198" y2="425" stroke="#7AA7A2" stroke-width="5"/>
+  <line x1="314" y1="95" x2="314" y2="425" stroke="#7AA7A2" stroke-width="5"/>
+  <path d="M228 129 H322 C316 132 308 138 303 145 C299 151 297 160 297 170 V286 C297 351 258 398 217 406 V388 C248 379 273 340 273 286 V170 C273 160 271 151 267 145 C262 138 254 132 248 129 Z" fill="#E6E2DA"/>
+  <circle cx="196" cy="350" r="34" fill="#E6E2DA"/>
 </svg>

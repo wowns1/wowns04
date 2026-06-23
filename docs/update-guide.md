@@ -40,7 +40,7 @@ assets/pdfs/wings-of-l/development-proposal.pdf
 - `twitter:description`
 - `twitter:image`
 
-`https://your-domain.com`은 실제 배포 도메인으로 교체해야 합니다.
+현재 배포 도메인은 `https://wowns3.netlify.app` 기준으로 반영되어 있습니다. 도메인을 바꾸면 이 URL만 새 주소로 교체합니다.
 
 ## 5. 파비콘 / 앱 아이콘 교체
 

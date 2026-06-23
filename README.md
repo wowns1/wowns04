@@ -1,4 +1,4 @@
-# Game Design Portfolio Site v11
+# Game Design Portfolio Site v12
 
 김재준 게임 디자인 포트폴리오 사이트입니다. HTML, 순수 CSS, 바닐라 JavaScript만 사용합니다.
 
@@ -47,7 +47,7 @@ game-portfolio-site/
 - 프로젝트 설명: `projects/*.html`
 - 프로젝트 이미지: `assets/images/*-concept.jpg`를 같은 파일명으로 교체
 - PDF 교체: `assets/pdfs/{project-id}/` 내부 PDF를 같은 파일명으로 덮어쓰기
-- 도메인 반영: 각 HTML의 `https://your-domain.com`을 실제 도메인으로 교체
+- 배포 도메인: `https://wowns3.netlify.app` 기준으로 canonical / Open Graph / Twitter Card / sitemap / robots가 설정되어 있음
 - 아이콘 교체: `assets/meta/favicon.png`를 512×512 PNG로 교체 후 favicon 세트를 다시 생성
 
 
