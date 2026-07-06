@@ -1,4 +1,4 @@
-# Game Design Portfolio Site v12
+# Game Design Portfolio Site
 
 김재준 게임 디자인 포트폴리오 사이트입니다. HTML, 순수 CSS, 바닐라 JavaScript만 사용합니다.
 
